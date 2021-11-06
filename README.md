@@ -2,5 +2,5 @@
 
 language: Python, C
 
-Give a start if you are using any material. 
+Give reference if you are using any material. 
 Please refrain from plagiarism. 
